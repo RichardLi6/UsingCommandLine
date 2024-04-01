@@ -8,4 +8,4 @@ The following table outlines common issues encountered during file operations, p
 | Access denied error | Lack of permissions to access the files or directories. | Run the Command Prompt as an administrator, or check and modify the file permissions. |
 | Path not found error | The source or destination path does not exist. | Verify that the source and destination paths are correct. Create the directories if they do not exist using: ```bash mkdir pathTo\newDirectory ``` |
 
-
+Please replace `sourcePath`, `filename.extension`, and `destinationPath` with your actual file paths and filenames.
