@@ -1,19 +1,6 @@
 site_name: CommandLine Basics
 theme:
   name: material
-  nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - Basic Commands: basic-commands.md
-  - File Operations:
-      - Organize Files: organize-files.md
-      - Search and Move Files: search-move-files.md
-      - Deleting Files: deleting-files.md
-  - Advanced Topics: 
-      - Scripting: scripting.md
-      - Custom Commands: custom-commands.md
-  - Troubleshooting: troubleshooting.md
-  - Glossary: glossary.md
   features:
     - navigation.tabs
     - navigation.sections
@@ -39,21 +26,22 @@ theme:
       primary: deep purple
       accent: lime
 
-  markdown_extensions:
-    - pymdownx.highlight:
-        anchor_linenums: true
-    - pymdownx.inlinehilite
-    - pymdownx.snippets
-    - admonition
-    - pymdownx.arithmatex:
-        generic: true
-    - footnotes
-    - pymdownx.details
-    - pymdownx.superfences
-    - pymdownx.mark
-    - attr_list
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - codehilite
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
     
 

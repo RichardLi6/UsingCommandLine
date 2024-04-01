@@ -1,7 +1,12 @@
 # Search and Move Files
 
+!!! info
+```
+These instructions are intended for windows users
+```
+
 ## Step 1: Open the Command Line
-Open the Command Prompt by pressing `Win + R`, typing `cmd`, and pressing Enter.
+Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing Enter.
 
 ## Step 2: Search for Files
 Use the `dir` command to search for files. For example, to find all `.txt` files in a directory:

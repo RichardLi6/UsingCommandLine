@@ -14,14 +14,14 @@ Before diving into the command line, it's important to understand the basics of 
 
 ## Getting Started
 
-- [Organize Files](organize-files.md): Learn how to create, move, and manage files and directories.
-- [Search and Move Files](search-move-files.md): Discover how to search for files and move them around within your file system.
-- [Deleting Files](deleting-files.md): Understand the commands for safely deleting files and directories.
+- [Organize Files](OrganizeFiles.md): Learn how to create, move, and manage files and directories.
+- [Search and Move Files](SearchMove.md): Discover how to search for files and move them around within your file system.
+- [Deleting Files](CleanUpFiles.md): Understand the commands for safely deleting files and directories.
 
 
 ## Troubleshooting
 
-- [Common Issues](troubleshooting.md): Solve frequent problems and errors encountered when using the command line.
+- [Common Issues](Troubleshooting.md): Solve frequent problems and errors encountered when using the command line.
 
 ## Glossary
 
