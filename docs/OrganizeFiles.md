@@ -59,7 +59,7 @@ cd [Folder Name]
 cd NewFolder
 ```
 
-##  Step 5: Create a New File </b>
+## <b> Step 5: Create a New File </b>
 Create a new file by using `echo`. 
 ```
 echo. > [file name].txt
@@ -70,7 +70,7 @@ echo. > [file name].txt
 echo. > newfile.txt
 ```
 
-## Step 6: Open the File
+## <b> Step 6: Open the File </b>
 Open the file with a text editor.
 ```bash
 [txt editor] [file name].txt
@@ -82,13 +82,13 @@ Open the file with a text editor.
 notepad newfile.txt
 ```
 
-<b> ## Step 7: Write Content </b>
+## <b> Step 7: Write Content </b>
 Write content to the file using `echo`. 
 ```
 echo [content] >> [file name].txt
 ```
 
-For instance:
+<i> For instance: </i>
 ```bash
 echo Hello, World! >> newfile.txt
 ```
@@ -102,7 +102,7 @@ Verify the file's content with `type`:
 ```bash
 type [filename].txt
 ```
-<i> for example </i>
+<i> For example </i>
 ```bash
 type newfile.txt
 ```
