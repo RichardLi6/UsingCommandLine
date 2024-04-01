@@ -1,9 +1,9 @@
 # Deleting Files
 
 !!! info
-```
-These instructions are intended for windows users
-```
+    ```
+    These instructions are intended for windows users.
+    ```
 
 ## Step 1: Open the Command Line
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing Enter.
@@ -16,6 +16,10 @@ dir /b
 ```
 
 ## Step 3: Delete a Single File
+!!! warning
+    ```
+    Warning! This step deletes your file! Don't use the command if you don't want to delete the file!
+    ```
 Delete a single file using the `del` command:
 
 ```bash
