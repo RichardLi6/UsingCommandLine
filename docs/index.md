@@ -1,58 +1,28 @@
 # Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome to Command Line Documentation
 
-## Code Annotation Examples
+Welcome to the comprehensive guide on using the command line effectively. This documentation is designed to help both beginners and advanced users to navigate, manage files, and execute various tasks using the command line interface (CLI).
 
-### Codeblocks
+## Overview
 
-Some `code` goes here
+The command line is a powerful tool that allows users to perform tasks by typing commands into a terminal or console window. Understanding how to use it is essential for system administration, software development, and data management.
 
-### Plain codeblock
+## Introduction
 
-A plain codeblock:
+Before diving into the command line, it's important to understand the basics of the terminal, including its history, importance in modern computing, and how it compares to graphical user interfaces (GUIs).
 
-```
-Some code here
-def myfunction()
-// some comment
-```
+## Getting Started
 
-#### Code for a specific language
+- [Organize Files](organize-files.md): Learn how to create, move, and manage files and directories.
+- [Search and Move Files](search-move-files.md): Discover how to search for files and move them around within your file system.
+- [Deleting Files](deleting-files.md): Understand the commands for safely deleting files and directories.
 
-Some more code with the `py` at the start:
 
-``` py
-import tensorflow as tf
-def whatever()
-```
+## Troubleshooting
 
-#### With a title
+- [Common Issues](troubleshooting.md): Solve frequent problems and errors encountered when using the command line.
 
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+## Glossary
 
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+- [Terminology](glossary.md): Familiarize yourself with common terms and command line jargon.
