@@ -18,7 +18,7 @@ dir /b
 ## <b>Step 3: Delete a Single File</b>
 !!! warning
     ```
-    Warning! This step deletes your file! Don't use the command if you don't want to delete the file!
+    Warning! The following steps deletes your file! Don't use the command if you don't want to delete the file!
     ```
 Delete a single file using the `del` command:
 
@@ -39,6 +39,10 @@ dir /b
 ```
 
 ## <b>Step 5: Delete Multiple Files</b>
+!!! warning
+    ```
+    Warning! The following steps will delete multiple file! Don't use the command if you don't want to delete your files!
+    ```
 Use wildcards to delete multiple files:
 
 ```bash
@@ -46,6 +50,10 @@ del *.txt
 ```
 
 ## <b>Step 6: Delete Files Recursively</b>
+!!! warning
+    ```
+    Warning! The following steps will delete multiple file! Don't use the command if you don't want to delete your files!
+    ```
 Delete files recursively from subdirectories with the `/s` flag:
 
 ```bash
@@ -53,6 +61,10 @@ del /s *.txt
 ```
 
 ## <b>Step 7: Delete Directories</b>
+!!! warning
+    ```
+    Warning! The following steps will delete directories! Don't use the command if you don't want to delete your directories!
+    ```
 Remove entire directories using `rmdir` or `rd`:
 
 ```bash
@@ -67,6 +79,10 @@ sdelete -p 3 filename.txt
 ```
 
 ## <b>Step 9: Empty Recycle Bin</b>
+!!! warning
+    ```
+    Warning! The following steps will empty your recycle bin! Don't use the command if you don't want to empty your recycle bin!
+    ```
 Empty the recycle bin via the command line:
 
 ```bash
