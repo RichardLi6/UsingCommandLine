@@ -13,11 +13,11 @@ management. From finding text files tucked away in nested directories to moving
 batches of data to new homes, the skills you acquire today will transform your
 tasks into a symphony of keystrokes.
 
-## Open the Command Line
+## <b> Open the Command Line</b> 
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
 Enter.
 
-## Search for Files
+## <b> Search for Files</b> 
 Use the `dir` command to search for files. For example, to find all `.txt` files in
 a directory:
 
@@ -34,7 +34,7 @@ dir /s /b [filename].txt
 dir /s /b file.txt
 ```
 
-## Move the File
+## <b> Move the File</b> 
 Move a file to a new location with the `move` command:
 
 ```bash
@@ -45,28 +45,28 @@ move C:\[path]\[to]\[source]\[file name].txt C:\[path]\[to]\[destination]\
 move C:\Users\Richard\Downloads\file.txt C:\Users\Richard\Documents
 ```
 
-## Verify the Move
+## <b> Verify the Move</b> 
 Check that the file has been moved to the new location:
 
 ```bash
 dir C:\path\to\destination\
 ```
 
-## Copy the File
+## <b> Copy the File</b> 
 Copy a file with the `copy` command:
 
 ```bash
 copy C:\path\to\source\filename.txt C:\path\to\destination\filename.txt
 ```
 
-## Rename the File
+## <b> Rename the File</b> 
 Rename a file using the `ren` or `rename` command:
 
 ```bash
 ren C:\path\to\filename.txt newfilename.txt
 ```
 
-## Search Within Files
+## <b> Search Within Files</b> 
 Search for a specific string within files using `findstr`:
 
 ```bash
