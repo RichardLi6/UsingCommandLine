@@ -1,9 +1,9 @@
 # Organize Files
 
 !!! info
-```
-These instructions are intended for windows users
-```
+    ```
+    These instructions are intended for windows users.
+    ```
 
 ## <b> Step 1: Open the Command Line </b>
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing `Enter`.
@@ -15,9 +15,9 @@ Navigate to your desired directory using the `cd` command.
 cd [directory address]
 ```
 
-<i> Example: </i>
-```
-cd C:\Users\[user]\Documents
+<i> For Example: </i>
+```bash
+cd C:\[Users]\[user]\Documents
 ```
 
 !!! warning
@@ -26,7 +26,7 @@ cd C:\Users\[user]\Documents
     If you do not write the full address, you may need to use cd.. to navigate backwards.
 
     For example. moving from documents to downloads
-    ```
+    ```bash
     cd Documents
     cd ..
     cd Downloads
@@ -50,7 +50,7 @@ mkdir NewFolder
 
 ## <b> Step 4: Navigate to the New Directory </b>
 Change to the newly created directory with `cd`:
-```
+```bash
 cd [Folder Name]
 ```
 
@@ -61,7 +61,7 @@ cd NewFolder
 
 ## <b> Step 5: Create a New File </b>
 Create a new file by using `echo`. 
-```
+```bash
 echo. > [file name].txt
 ```
 
@@ -84,7 +84,7 @@ notepad newfile.txt
 
 ## <b> Step 7: Write Content </b>
 Write content to the file using `echo`. 
-```
+```bash
 echo [content] >> [file name].txt
 ```
 

@@ -4,75 +4,80 @@
 ```
 These instructions are intended for windows users
 ```
-## Introduction
-Welcome to the world of command-line mastery. As you embark on this journey, you 
-will learn to wield the powerful tools offered by the Windows Command Prompt. The
-command line offers precision and speed, qualities essential for effective file 
-management. From finding text files tucked away in nested directories to moving
-batches of data to new homes, the skills you acquire today will transform your 
-tasks into a symphony of keystrokes.
 
-
-### Open the Command Line
+## Step 1: Open the Command Line
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing Enter.
 
-### Search for Files
+## Step 2: Search for Files
 Use the `dir` command to search for files. For example, to find all `.txt` files in a directory:
 
+<i>For example</i>, to find all `.txt` files in a directory:
 ```bash
 dir /s /b *.txt
 ```
+<i>For example</i>, to find a specific .txt file in a directory:
+```bash
+dir /s /b [filename].txt
+```
+<i>For example</i>, to find a file named 'file.txt' in a directory:
+```bash
+dir /s /b file.txt
+```
 
-### Move the File
+## Step 3: Move the File
 Move a file to a new location with the `move` command:
 
 ```bash
-move C:\path\to\source\filename.txt C:\path\to\destination\
+move C:\[path]\[to]\[source]\[file name].txt C:\[path]\[to]\[destination]\
+```
+<i>For example</i> To move 'file.txt' from downloads of user Richard to documents:
+```
+move C:\Users\Richard\Downloads\file.txt C:\Users\Richard\Documents
 ```
 
-### Verify the Move
+## Step 4: Verify the Move
 Check that the file has been moved to the new location:
 
 ```bash
 dir C:\path\to\destination\
 ```
 
-### Copy the File
+## Step 5: Copy the File
 Copy a file with the `copy` command:
 
 ```bash
 copy C:\path\to\source\filename.txt C:\path\to\destination\filename.txt
 ```
 
-### Rename the File
+## Step 6: Rename the File
 Rename a file using the `ren` or `rename` command:
 
 ```bash
 ren C:\path\to\filename.txt newfilename.txt
 ```
 
-### Search Within Files
+## Step 7: Search Within Files
 Search for a specific string within files using `findstr`:
 
 ```bash
 findstr /s "searchstring" *.txt
 ```
 
-### Organize Search Results
+## Step 8: Organize Search Results
 Sort the search results by name or date using `dir` with sorting flags:
 
 ```bash
 dir /b /o:n *.txt
 ```
 
-### Selective Move
+## Step 9: Selective Move
 Move only certain files using wildcards with `move`:
 
 ```bash
 move C:\path\to\source\*.txt C:\path\to\destination\
 ```
 
-### Create Directory Structure
+## Step 10: Create Directory Structure
 Recreate the directory structure in the destination using `xcopy`:
 
 ```bash
