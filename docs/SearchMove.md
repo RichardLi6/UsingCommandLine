@@ -5,7 +5,7 @@
 These instructions are intended for windows users
 ```
 
-## Introduction:
+## Introduction
 Welcome to the world of command-line mastery. As you embark on this journey, you
 will learn to wield the powerful tools offered by the Windows Command Prompt. The
 command line offers precision and speed, qualities essential for effective file
