@@ -92,6 +92,7 @@ Enter.
     ```
 
 8. Use wildcards to delete multiple files:
+
     !!! warning
         The following steps will delete multiple file! Don't use the command 
         if you don't want to delete your files!
@@ -119,6 +120,7 @@ Enter.
     ```
 
 11. Empty the recycle bin via the command line: 
+
     !!! warning
         The following steps will empty your recycle bin! Don't use the command 
         if you don't want to empty your recycle bin!
