@@ -2,9 +2,9 @@
 
 
 !!! info
-    ```
     These instructions are intended for windows users.
-    ```
+    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
+
 ## Introduction
 Welcome to the definitive guide on deleting files using the Windows Command Prompt. 
 This section is designed to provide you with the necessary command-line skills to 
@@ -27,7 +27,7 @@ dir /b
 ## <b>Delete a Single File</b>
 !!! warning
     ```
-    Warning! The following steps deletes your file! Don't use the command if you 
+    The following steps deletes your file! Don't use the command if you 
     don't want to delete the file!
     ```
 Delete a single file using the `del` command:
