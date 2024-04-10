@@ -44,7 +44,7 @@ C:\Users\Richard>dir /s /b text.txt
     ```
     C:\Users\Richard>dir /s /b *tex*
     ```
-<b> 4. Copy the file location </b> 
+<b> 3. Copy the file location </b> 
 
 Copy the file location of the address by highlighting the directory using ctrl + c.
 
@@ -58,7 +58,7 @@ C:\Users\Richard\Downloads\
 ```
 
 
-<b> 5. Navigate to file location </b>
+<b> 4. Navigate to file location </b>
 
 Navigate to your desired directory using the `cd` command where you want to delete files.
 
@@ -72,18 +72,18 @@ cd C:\[Users]\[user]\Documents
 ```
 
 
-<b> 6. List Files </b>
+<b> 5. List Files </b>
 List the files in a directory before deletion: 
 ```bash
 dir /b
 ```
 
-<b> 7. Delete a Single File</b> 
+<b> 6. Delete a Single File</b> 
 !!! warning
     The following steps deletes your file! Don't use the command if you 
     don't want to delete the file!
 
-<ol> Delete a single file using the `del` command: </ol>
+Delete a single file using the `del` command: 
 ```bash
 del [filename].txt
 ```
@@ -93,7 +93,7 @@ del [filename].txt
 del file.txt
 ```
 
-<b> 8. Confirm Deletion</b>
+<b> 7. Confirm Deletion</b>
 
 Verify that the file has been deleted:
 
@@ -101,7 +101,7 @@ Verify that the file has been deleted:
 dir /b
 ```
 
-<b> 9. Delete Multiple Files</b>
+<b> 8. Delete Multiple Files</b>
 !!! warning
     The following steps will delete multiple file! Don't use the command 
     if you don't want to delete your files!
@@ -112,7 +112,7 @@ Use wildcards to delete multiple files:
 del *.txt
 ```
 
-<b> 10. Delete Directories</b>
+<b> 9. Delete Directories</b>
 
 !!! warning
     The following steps will delete directories! Don't use the command if 
@@ -123,7 +123,7 @@ Remove entire directories using `rmdir` or `rd`:
 rmdir /s /q C:\path\to\directory
 ```
 
-<b> 11. Secure Deletion</b>
+<b> 10. Secure Deletion</b>
 
 For secure deletion, use a third-party tool like `sdelete` from Sysinternals: 
 
@@ -131,7 +131,7 @@ For secure deletion, use a third-party tool like `sdelete` from Sysinternals:
 sdelete -p 3 filename.txt
 ```
 
-<b> 12. Empty Recycle Bin</b>
+<b> 11. Empty Recycle Bin</b>
 !!! warning
     The following steps will empty your recycle bin! Don't use the command 
     if you don't want to empty your recycle bin!
