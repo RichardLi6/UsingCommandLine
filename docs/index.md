@@ -9,7 +9,6 @@ The command line is a powerful tool that allows users to perform tasks by typing
 commands into a terminal or console window. Understanding how to use it is 
 essential for system administration, software development, and data management.
 
-
 Before diving into the command line, it's important to understand the basics of the 
 terminal, including its history, importance in modern computing, and how it 
 compares to graphical user interfaces.
