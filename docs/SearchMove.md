@@ -34,7 +34,7 @@ Enter.
 
 
     ```bash
-    move C:\[path]\[to]\[source]\[file name].txt C:\[path]\[to]\[destination]\
+    move C:\[path]\[to]\[source]\[filename].txt C:\[path]\[to]\[destination]\
     ```
     <i>For example</i> To move 'file.txt' from downloads of user Richard to documents:
     ```
@@ -44,19 +44,19 @@ Enter.
 4. Check that the file has been moved to the new location:
 
     ```bash
-    dir C:\path\to\destination\
+    dir C:\[path]\[to]\[destination]\
     ```
 
 5. Copy a file with the `copy` command:
 
     ```bash
-    copy C:\path\to\source\filename.txt C:\path\to\destination\filename.txt
+    copy C:\[path]\[to]\[source]\[filename].txt C:\[path]\[to]\[destination]\[filename].txt
     ```
 
 6. Rename a file using the `ren` or `rename` command:
 
     ```bash
-    ren C:\path\to\filename.txt newfilename.txt
+    ren C:\[path]\[to]\[filename].txt newfilename.txt
     ```
 
 7. Search for a specific string within files using `findstr`:
@@ -75,13 +75,13 @@ Enter.
 9. Move only certain files using wildcards with `move`:
 
     ```bash
-    move C:\path\to\source\*.txt C:\path\to\destination\
+    move C:\[path]\[to]\[source]\*.txt C:\[path]\[to]\[destination]\
     ```
 
 10. Recreate the directory structure in the destination using `xcopy`:
 
     ```bash
-    xcopy /t /e C:\path\to\source\ C:\path\to\destination\
+    xcopy /t /e C:\[path]\[to]\[source]\ C:\[path]\[to]\[destination]\
     ```
 
 
