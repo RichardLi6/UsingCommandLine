@@ -15,6 +15,11 @@ This command line guide presents fundamental skills for effective file managemen
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
 Enter.
 
+<figure markdown="span">
+![Command Prompt](/CommandLine.png){ height="800"}
+<figcaption>Command Prompt window</figcaption>
+</figure>
+
 <b> 2. Search for Files</b> 
 Use the `dir` command to search for files. For example, to find all `.txt` files in
 a directory:

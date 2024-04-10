@@ -17,6 +17,11 @@ The following is the guide on deleting files using the Windows Command Prompt. T
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing 
 Enter. 
 
+<figure markdown="span">
+![Command Prompt](/CommandLine.png){ height="800"}
+<figcaption>Command Prompt window</figcaption>
+</figure>
+
 <b> 2. Find the file </b> 
 
 If you know the directory of the file already, you can move to step 4.

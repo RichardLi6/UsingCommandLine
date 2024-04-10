@@ -20,6 +20,10 @@ streamline your workflows and keep your digital workspace organized and accessib
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
 `Enter`.
 
+<figure markdown="span">
+![Command Prompt](/CommandLine.png){ height="800"}
+<figcaption>Command Prompt window</figcaption>
+</figure>
 
 <b> 2. Navigate to directory </b> 
 
