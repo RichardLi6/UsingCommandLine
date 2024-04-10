@@ -8,6 +8,7 @@ Below is a glossary of terms related to file operations and command line usage:
 | `copy` | Command used to copy files or directories. |
 | `del` | Command used to delete files. `del /S` is used to delete files recursively. |
 | `dir` | Displays a list of files and subdirectories in a directory. |
+| `dir /s /b` | Displays a list of files and subdirectories across multiple directories. |
 | `echo` | Command used to display messages on the screen or to turn echo on or off. |
 | `find` | Command used to search for files in a directory hierarchy. |
 | `mkdir` | Command to create a new directory. |
