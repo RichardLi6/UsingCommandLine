@@ -13,6 +13,12 @@ Before diving into the command line, it's important to understand the basics of 
 terminal, including its history, importance in modern computing, and how it 
 compares to graphical user interfaces.
 
+!!! info
+    These instructions are intended for windows users.
+    
+    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
+
+
 <b> Getting Started </b>
 
 - [Organize Files](OrganizeFiles.md): Learn how to create, move, and manage files 

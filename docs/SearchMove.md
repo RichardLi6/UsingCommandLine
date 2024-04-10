@@ -1,10 +1,5 @@
 # Search and Move Files
 
-!!! info
-    These instructions are intended for windows users.
-    
-    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
-
 
 <b>Introduction</b>
 
@@ -92,7 +87,7 @@ a directory:
 <b>Conclusion</b>
 
 Congratulations on completing this guide to searching and moving files with the 
-Windows Command Prompt.  
+Windows Command Prompt.
 
 Now, you might be need [Delete Files](DeletingFiles.md) to understand the commands for safely deleting files and directories.
 

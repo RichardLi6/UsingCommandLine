@@ -1,9 +1,9 @@
 # Organize Files
 
-!!! info
+<!-- !!! info
     These instructions are intended for windows users.
 
-    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
+    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.). -->
 
 <b> Introduction</b>
  
