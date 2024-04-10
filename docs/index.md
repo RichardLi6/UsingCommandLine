@@ -1,6 +1,3 @@
-Welcome to the comprehensive guide on using the command line effectively. This documentation is designed to help both beginners and advanced users to navigate, manage files, and execute various tasks using the command line interface (CLI).
-<p style="font-size: 22px;"> <b> Welcome to Command Line Documentation </b> </p>
-
 Welcome to the comprehensive guide on using the command line effectively. This documentation is for <b>term 1 CST students</b>. It is designed to help both 
 beginners and advanced users to navigate, manage files, and execute various tasks 
 using the command line interface.
