@@ -106,9 +106,7 @@ streamline your workflows and keep your digital workspace organized and accessib
     echo Hello, World! >> newfile.txt
     ```
 
-8. Save your changes and close the text editor.
-
-9. Verify the file's content with `type`:
+8. Verify the file's content with `type`:
 
     ```bash
     type [filename].txt

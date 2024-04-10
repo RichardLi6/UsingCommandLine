@@ -47,7 +47,7 @@ nav:
   - Home: "index.md"
   - Organize Files: "OrganizeFiles.md"
   - Search and Move Files: "SearchMove.md"
-  - Deleting Files: "DeletingFiles.md"
+  - Delete Files: "DeletingFiles.md"
   - Glossary: "glossary.md"
   - Troubleshooting: "Troubleshooting.md"
  
