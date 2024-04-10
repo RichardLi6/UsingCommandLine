@@ -4,21 +4,18 @@
 !!! info
     ```
     These instructions are intended for windows users.
+    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
     ```
 
-## Introduction
 Embark on a journey to master the art of file organization using the Windows 
 Command Prompt. This guide is designed to empower you with the knowledge to 
 efficiently create, navigate, and manage directories and files. By mastering these 
 command-line operations, you'll unlock a new level of proficiency, allowing you to 
 streamline your workflows and keep your digital workspace organized and accessible.
 
-## <b> Open the Command Line </b>
-Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
+1. Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
 `Enter`.
-
-## <b> Navigate to Directory </b>
-Navigate to your desired directory using the `cd` command. 
+2. Navigate to your desired directory using the `cd` command. 
 
 ```bash
 cd [directory address]

@@ -1,9 +1,9 @@
 # Search and Move Files
 
 !!! info
-```
 These instructions are intended for windows users
-```
+These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
+
 
 ## Introduction
 Welcome to the world of command-line mastery. As you embark on this journey, you
