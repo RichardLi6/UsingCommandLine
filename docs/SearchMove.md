@@ -1,6 +1,5 @@
 # Search and Move Files
 
-
 <b>Overview</b>
 
 In this section you will explore the guide presents fundamental skills for 
