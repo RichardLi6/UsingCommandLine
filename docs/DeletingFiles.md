@@ -135,8 +135,4 @@ Enter.
 You have now mastered the various methods of deleting files and directories using 
 the Command Prompt. While the power to remove data with such efficiency is 
 invaluable, always remember the importance of double-checking your commands to 
-avoid unintended data loss. These command-line skills will serve you well in 
-maintaining a clean and organized digital space, but they come with the 
-responsibility to use them wisely and judiciously. As you continue to use these 
-commands, you'll develop a keen sense of precision and caution, enhancing your 
-overall computing practices.
+avoid unintended data loss.

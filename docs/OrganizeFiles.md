@@ -123,8 +123,6 @@ streamline your workflows and keep your digital workspace organized and accessib
 
 Well done on completing this comprehensive guide to organizing files with the 
 Command Prompt. You've learned how to create directories, navigate through your 
-file system, manage files, and ensure your digital space is neatly arranged. These
-skills are fundamental not just for organization but also for enhancing your 
-efficiency and effectiveness in various computing tasks. Continue to apply these 
-techniques, and you'll find that maintaining an orderly file system becomes a 
-natural part of your computing routine.
+file system, manage files, and ensure your digital space is neatly arranged. 
+
+Now, you can go to [Search and Move Files](SearchMove.md) to discover how to search for files and move them around within your file system.

@@ -92,12 +92,9 @@ a directory:
 <b>Conclusion</b>
 
 Congratulations on completing this guide to searching and moving files with the 
-Windows Command Prompt. These steps are just the beginning of what's possible with
-command-line tools at your fingertips. As you grow more comfortable with these 
-commands, you'll find that they become second nature, making you a more adept and
-efficient user. The command line is a gateway to a vast world of advanced computing
-operations—continue exploring, and you'll uncover even more powerful ways to manage
-your digital environment.
+Windows Command Prompt.  
+
+Now, you might be need [Delete Files](DeletingFiles.md) to understand the commands for safely deleting files and directories.
 
 
 
