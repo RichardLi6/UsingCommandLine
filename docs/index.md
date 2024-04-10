@@ -16,4 +16,17 @@ Before diving into the command line, it's important to understand the basics of 
 - [Search and Move Files](SearchMove.md): Discover how to search for files and move them around within your file system.
 - [Deleting Files](DeletingFiles.md): Understand the commands for safely deleting files and directories.
 
-<p style="font-size: 22px;"> <b> Admonition messages </b> </p>
+<p style="font-size: 22px;"> <b> Admonitions </b> </p>
+
+Throughout the CommandLine documentation there will be admonitions that symbolize information.
+!!! info
+     Info contains general information for each section. They are used at the introduction to ensure users have the right material before following the guide.
+
+!!! note
+    Notes that lets you know a potential problem. It is not dangerous as a warning, just something to notice.
+
+!!! warning
+    Warnings are a must read before continuing on with the guide. Users must know the potential risks for each step.
+
+!!! tip
+    Tip are helpful insights that can may help you or make it easier to follow the guidelines.
