@@ -21,7 +21,7 @@ Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressin
 `Enter`.
 
 <figure markdown="span">
-![Command Prompt](/CommandLine.png){ height="800"}
+![Command Prompt](./CommandLine.png){ height="800"}
 <figcaption>Command Prompt window</figcaption>
 </figure>
 
