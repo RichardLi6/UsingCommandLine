@@ -41,7 +41,7 @@ cd dir
 
     <i> For Example: </i>
     ```bash
-    cd C:\[Users]\[user]\Documents
+    cd C:\Users\Richard\Documents
     ```
 
 
