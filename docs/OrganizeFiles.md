@@ -1,16 +1,9 @@
 # Organize Files
 
-<!-- !!! info
-    These instructions are intended for windows users.
-
-    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.). -->
-
-<b> Overview</b>
+<b> Overview </b>
  
-This guide is designed to teach you basic file organization skills using Windows command Prompt.
-You'll learn how to efficiently create, navigate, and manage directories and files. By mastering these 
-command-line operations, you'll unlock a new level of proficiency, allowing you to 
-streamline your workflows and keep your digital workspace organized and accessible.
+In this section you will explore how to do basic file organization skills using Windows command Prompt.
+You'll learn how to efficiently create, navigate, and manage directories and files. 
 
 !!! tip
     Maintain a structured folder hierarchy for better organization and ease of access.
@@ -117,12 +110,20 @@ streamline your workflows and keep your digital workspace organized and accessib
     ```
 
 
-
-
 <b>Conclusion</b>
 
+
+At the end of the conclusion, you will learn the following:
+
+✅ How to create directories
+
+✅ How to create files
+
+✅ How to navigate through files
+
+✅ How to write in files
+
 Well done on completing this comprehensive guide to organizing files with the 
-Command Prompt. You've learned how to create directories, navigate through your 
-file system, manage files, and ensure your digital space is neatly arranged. 
+Command Prompt 😄. You've learned how to create directories, create files, navigate through files, and write in files.
 
 Now, you can go to [Search and Move Files](SearchMove.md) to discover how to search for files and move them around within your file system.
