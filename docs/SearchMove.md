@@ -3,7 +3,10 @@
 
 <b>Overview</b>
 
-This command line guide presents fundamental skills for effective file management. Whether locating text files within nested directories or relocating batches of data, the skills you acquire today will prove invaluable in the long term.
+In this section you will explore the guide presents fundamental skills for 
+effective file management. Whether locating text files within nested directories or 
+relocating batches of data, the skills you acquire today will prove invaluable in 
+the long term.
 
 1. Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing
 Enter.
@@ -13,8 +16,7 @@ Enter.
     <figcaption>Command Prompt window</figcaption>
     </figure>
 
-2. Use the `dir` command to search for files. For example, to find all `.txt` files in
-a directory:
+2. Use the `dir` command to search for files. For example, to find all `.txt` files in a directory:
 
     <i>For example</i>, to find all `.txt` files in a directory:
     ```bash
