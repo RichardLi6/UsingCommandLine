@@ -1,4 +1,4 @@
-# Deleting Files
+# Delete Files
 
 
 !!! info
