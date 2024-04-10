@@ -1,7 +1,7 @@
 # Search and Move Files
 
 
-<b>Introduction</b>
+<b>Overview</b>
 
 This command line guide presents fundamental skills for effective file management. Whether locating text files within nested directories or relocating batches of data, the skills you acquire today will prove invaluable in the long term.
 

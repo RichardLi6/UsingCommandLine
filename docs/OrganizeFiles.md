@@ -5,7 +5,7 @@
 
     These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.). -->
 
-<b> Introduction</b>
+<b> Overview</b>
  
 This guide is designed to teach you basic file organization skills using Windows command Prompt.
 You'll learn how to efficiently create, navigate, and manage directories and files. By mastering these 
