@@ -2,15 +2,14 @@
 
 
 !!! info
-    These instructions are intended for windows users.
-
-    These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
-
     User is expected to have files and directories to delete for this section.
 
 <b> Introduction </b> 
 
 In this section you will explore how to delete files using the Windows Command Prompt. This section is designed to provide you with the necessary command-line skills to remove files and directories efficiently. While file deletion is a fundamental operation, it's essential to approach it with caution. This guide will not only show you how to execute deletions but also how to verify that you're deleting only what you intend to remove.
+
+!!! warning
+    The following section will deletes your files, directories, and also your empty recycle bin! 
 
 1. Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing 
 Enter. 
@@ -70,6 +69,7 @@ Enter.
     ```
 
 6. Delete a single file using the `del` command: 
+
     !!! warning
         The following steps deletes your file! Don't use the command if you 
         don't want to delete the file!
