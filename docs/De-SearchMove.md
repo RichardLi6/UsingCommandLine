@@ -7,12 +7,8 @@
 
 
 <b>Introduction</b>
-Welcome to the world of command-line mastery. As you embark on this journey, you
-will learn to wield the powerful tools offered by the Windows Command Prompt. The
-command line offers precision and speed, qualities essential for effective file
-management. From finding text files tucked away in nested directories to moving
-batches of data to new homes, the skills you acquire today will transform your
-tasks into a symphony of keystrokes.
+
+This command line guide presents fundamental skills for effective file management. Whether locating text files within nested directories or relocating batches of data, the skills you acquire today will prove invaluable in the long term.
 
 <b> 1. Open the Command Line</b> 
 

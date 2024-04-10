@@ -1,16 +1,19 @@
 # Organize Files
 
-
 !!! info
     These instructions are intended for windows users.
 
     These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
 
-Embark on a journey to master the art of file organization using the Windows 
-Command Prompt. This guide is designed to empower you with the knowledge to 
-efficiently create, navigate, and manage directories and files. By mastering these 
+<b> Introduction</b>
+ 
+This guide is designed to teach you basic file organization skills using Windows command Prompt.
+You'll learn how to efficiently create, navigate, and manage directories and files. By mastering these 
 command-line operations, you'll unlock a new level of proficiency, allowing you to 
 streamline your workflows and keep your digital workspace organized and accessible.
+
+!!! tip
+    Maintain a structured folder hierarchy for better organization and ease of access.
 
 <b> 1. Open the Command Line</b> 
 
@@ -129,8 +132,7 @@ type [filename].txt
 type newfile.txt
 ```
 
-!!! tip
-    Maintain a structured folder hierarchy for better organization and ease of access.
+
 
 
 <b>Conclusion</b>

@@ -10,12 +10,7 @@
 
 <b>Introduction</b> 
 
-Welcome to the definitive guide on deleting files using the Windows Command Prompt. 
-This section is designed to provide you with the necessary command-line skills to 
-remove files and directories efficiently. While file deletion is a fundamental 
-operation, it's essential to approach it with caution. This guide will not only 
-show you how to execute deletions but also how to ensure that you're deleting only 
-what you intend to remove, preventing accidental loss of valuable data.
+The following is the guide on deleting files using the Windows Command Prompt. This section is meticulously designed to provide you with the necessary command-line skills to remove files and directories efficiently. While file deletion is a fundamental operation, it's essential to approach it with caution. This guide will not only show you how to execute deletions but also how to ensure that you're deleting only what you intend to remove, preventing accidental loss of valuable data.
 
 <b> 1. Open the Command Line </b> 
 
