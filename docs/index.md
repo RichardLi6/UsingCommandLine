@@ -14,7 +14,7 @@ Before diving into the command line, it's important to understand the basics of 
 
 - [Organize Files](OrganizeFiles.md): Learn how to create, move, and manage files and directories.
 - [Search and Move Files](SearchMove.md): Discover how to search for files and move them around within your file system.
-- [Deleting Files](DeletingFiles.md): Understand the commands for safely deleting files and directories.
+- [Delete Files](DeletingFiles.md): Understand the commands for safely deleting files and directories.
 
 <p style="font-size: 22px;"> <b> Admonitions </b> </p>
 
