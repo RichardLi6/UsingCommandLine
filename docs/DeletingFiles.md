@@ -8,9 +8,9 @@
 
     User is expected to have files and directories to delete for this section.
 
-<b>Introduction</b> 
+<b> Introduction </b> 
 
-The following is the guide on deleting files using the Windows Command Prompt. This section is meticulously designed to provide you with the necessary command-line skills to remove files and directories efficiently. While file deletion is a fundamental operation, it's essential to approach it with caution. This guide will not only show you how to execute deletions but also how to ensure that you're deleting only what you intend to remove, preventing accidental loss of valuable data.
+In this section you will explore how to delete files using the Windows Command Prompt. This section is designed to provide you with the necessary command-line skills to remove files and directories efficiently. While file deletion is a fundamental operation, it's essential to approach it with caution. This guide will not only show you how to execute deletions but also how to verify that you're deleting only what you intend to remove.
 
 1. Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing 
 Enter. 
@@ -26,7 +26,7 @@ Enter.
     ```bash
     C:\[Users]\[user]>dir /s /b [file name]
     ```
-    For example:
+    <i>For example: </i>
     ```
     C:\Users\Richard>dir /s /b text.txt
     ```
@@ -36,14 +36,14 @@ Enter.
         C:\[Users]\[user]>dir /s /b *[file name]*
         ```
 
-        For example,
+        <i>For example:</i>
         ```
         C:\Users\Richard>dir /s /b *tex*
         ```
 
 3. Copy the file location of the address by highlighting the directory using ctrl + c.
 
-    For example if I'm looking for the txt file, only copy the address before the file.
+    <i>For example, </i>    if I'm looking for the txt file, only copy the address before the file.
     ```
     C:\Users\Richard\Downloads\text.txt
     ```
@@ -59,7 +59,7 @@ Enter.
     cd [directory address]
     ```
 
-    <i> For Example: </i>
+    <i> For example: </i>
     ```bash
     cd C:\[Users]\[user]\Documents
     ```
@@ -68,8 +68,6 @@ Enter.
     ```bash
     dir /b
     ```
-
-
 
 6. Delete a single file using the `del` command: 
     !!! warning
@@ -80,7 +78,7 @@ Enter.
     del [filename].txt
     ```
 
-    <i>For example:</i>
+    <i>For example: </i>
     ```bash
     del file.txt
     ```
@@ -132,7 +130,11 @@ Enter.
 
 <b>Conclusion</b>
 
-You have now mastered the various methods of deleting files and directories using 
-the Command Prompt. While the power to remove data with such efficiency is 
-invaluable, always remember the importance of double-checking your commands to 
-avoid unintended data loss.
+At the end of the conclusion, you will
+
+✅ How to delete files
+
+✅ How to delete directories
+
+✅ How to empty recycle bin
+
