@@ -24,12 +24,12 @@ reorganize your file structure with precision.
 
 - [Search and Move Files Details](De-SearchMove.md)
 
-### Deleting Files
+### Delete Files
 Understand the correct procedures to safely delete files and directories. This 
 critical skill ensures you can manage your file system without losing important 
 data, providing clear instructions on how to remove files with confidence.
 
-- [Deleting Files Details](DeletingFiles.md)
+- [Delete Files Details](DeletingFiles.md)
 
 ### Glossary
 Familiarize yourself with common command line terminology. This glossary defines 
