@@ -1,10 +1,10 @@
-<!-- <p style="font-size: 22px;"> <b> Welcome to Command Line Documentation </b> </p> -->
+<p style="font-size: 22px;"> <b> Welcome to Command Line Documentation </b> </p>
 
 Welcome to the comprehensive guide on using the command line effectively. This documentation is for <b>term 1 CST students</b>. It is designed to help both 
 beginners and advanced users to navigate, manage files, and execute various tasks 
 using the command line interface.
 
-<p style="font-size: 22px;"> <b>Overview </b> </p>
+<b>Overview </b> 
 
 The command line is a powerful tool that allows users to perform tasks by typing 
 commands into a terminal or console window. Understanding how to use it is 
@@ -16,7 +16,7 @@ Before diving into the command line, it's important to understand the basics of 
 terminal, including its history, importance in modern computing, and how it 
 compares to graphical user interfaces.
 
-<p style="font-size: 22px;"> <b> Getting Started </b> </p>
+<b> Getting Started </b>
 
 - [Organize Files](OrganizeFiles.md): Learn how to create, move, and manage files 
 and directories.
@@ -25,7 +25,7 @@ them around within your file system.
 - [Delete Files](DeletingFiles.md): Understand the commands for safely deleting 
 files and directories.
 
-<p style="font-size: 22px;"> <b> Admonitions </b> </p>
+<b> Admonitions </b> 
 
 Throughout the CommandLine documentation there will be admonitions that symbolize 
 information.
