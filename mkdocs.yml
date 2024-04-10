@@ -43,5 +43,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - Home: "index.md"
+  - Organize Files: "OrganizeFiles.md"
+  - Search and Move Files: "SearchMove.md"
+  - Deleting Files: "DeletingFiles.md"
+  - Glossary: "glossary.md"
+  - Troubleshooting: "Troubleshooting.md"
     
 

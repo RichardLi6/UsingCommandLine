@@ -6,7 +6,7 @@
 
     These commands do may not work on external cloud drives (i.e., Google Drive, oneDrive, etc.).
 
-    User is expected to have a file to delete for this section.
+    User is expected to have files and directories to delete for this section.
 
 <b>Introduction</b> 
 
@@ -17,14 +17,63 @@ The following is the guide on deleting files using the Windows Command Prompt. T
 Open the Command Prompt by pressing `Windows Key + R`, typing `cmd`, and pressing 
 Enter. 
 
-<b> 2. List Files </b>
+<b> 2. Find the file </b> 
 
+If you know the directory of the file already, you can move to step 4.
+
+Navigate to your desired directory using the `cd` command for file deletion. If you already know the file name for deleting, try these commands to find location.
+```bash
+C:\[Users]\[user]>dir /s /b [file name]
+```
+For example:
+```
+C:\Users\Richard>dir /s /b text.txt
+```
+!!! tip
+    If you only know the first few letters of the file name, do the command below
+    ```bash
+    C:\[Users]\[user]>dir /s /b *[file name]*
+    ```
+
+    For example,
+    ```
+    C:\Users\Richard>dir /s /b *tex*
+    ```
+<b> 4. Copy the file location </b> 
+
+Copy the file location of the address by highlighting the directory using ctrl + c.
+
+For example if I'm looking for the txt file, only copy the address before the file.
+```
+C:\Users\Richard\Downloads\text.txt
+```
+I would only copy the bottom portion.
+```
+C:\Users\Richard\Downloads\
+```
+
+
+<b> 5. Navigate to file location </b>
+
+Navigate to your desired directory using the `cd` command where you want to delete files.
+
+```
+cd [directory address]
+```
+
+<i> For Example: </i>
+```bash
+cd C:\[Users]\[user]\Documents
+```
+
+
+<b> 6. List Files </b>
 List the files in a directory before deletion: 
 ```bash
 dir /b
 ```
 
-<p> <b> 3. Delete a Single File</b> </p>
+<b> 7. Delete a Single File</b> 
 !!! warning
     The following steps deletes your file! Don't use the command if you 
     don't want to delete the file!
@@ -39,56 +88,50 @@ del [filename].txt
 del file.txt
 ```
 
-<b> 4.Confirm Deletion</b>
-<ol> Verify that the file has been deleted:</ol>
+<b> 8. Confirm Deletion</b>
+
+Verify that the file has been deleted:
 
 ```bash
 dir /b
 ```
 
-<b> 5. Delete Multiple Files</b>
+<b> 9. Delete Multiple Files</b>
 !!! warning
     The following steps will delete multiple file! Don't use the command 
     if you don't want to delete your files!
 
-<ol> Use wildcards to delete multiple files:</ol>
+Use wildcards to delete multiple files:
 
 ```bash
 del *.txt
 ```
 
-<b> 6. Delete Files Recursively</b>
-!!! warning
-    The following steps will delete multiple file! Don't use the command 
-    if you don't want to delete your files!
-<ol> Delete files recursively from subdirectories with the `/s` flag:</ol>
+<b> 10. Delete Directories</b>
 
-```bash
-del /s *.txt
-```
-
-<b> 7. Delete Directories</b>
 !!! warning
     The following steps will delete directories! Don't use the command if 
     you don't want to delete your directories!
-<ol> Remove entire directories using `rmdir` or `rd`: </ol>
+Remove entire directories using `rmdir` or `rd`: 
 
 ```bash
 rmdir /s /q C:\path\to\directory
 ```
 
-<b> 8. Secure Deletion</b>
-<ol> For secure deletion, use a third-party tool like `sdelete` from Sysinternals: </ol>
+<b> 11. Secure Deletion</b>
+
+For secure deletion, use a third-party tool like `sdelete` from Sysinternals: 
 
 ```bash
 sdelete -p 3 filename.txt
 ```
 
-<b> 9. Empty Recycle Bin</b>
+<b> 12. Empty Recycle Bin</b>
 !!! warning
     The following steps will empty your recycle bin! Don't use the command 
     if you don't want to empty your recycle bin!
-<ol> Empty the recycle bin via the command line: </ol>
+
+Empty the recycle bin via the command line: 
 
 ```bash
 rd /s /q C:\$Recycle.Bin
