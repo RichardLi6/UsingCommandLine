@@ -13,5 +13,6 @@ Below is a glossary of terms related to file operations and command line usage:
 | `echo` | Command used to display messages on the screen or to turn echo on or off. |
 | `find` | Command used to search for files in a directory hierarchy. |
 | `dir` | Displays a list of files and subdirectories in a directory. |
-
-
+| `rmdir` | Removes a directory. In Unix/Linux and Windows, it only deletes empty directories by default.|
+| `rd` | An alias for rmdir in Windows CMD. It has the same functionality as rmdir.|
+| `sdelete` | Secure delete tool used to permanently delete files or directories beyond recovery.|
