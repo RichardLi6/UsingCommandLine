@@ -130,7 +130,7 @@ Enter.
 
 <b>Conclusion</b>
 
-At the end of the conclusion, you will
+At the end of the conclusion, you will learn the following:
 
 ✅ How to delete files
 
@@ -138,3 +138,4 @@ At the end of the conclusion, you will
 
 ✅ How to empty recycle bin
 
+Good job! 😄 You are now able to delete files, directories and empty recycle bins.
