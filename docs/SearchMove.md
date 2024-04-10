@@ -87,10 +87,23 @@ Enter.
 
 <b>Conclusion</b>
 
-Congratulations on completing this guide to searching and moving files with the 
-Windows Command Prompt.
+At the end of the conclusion, you will learn the following:
 
-Now, you might be need [Delete Files](DeletingFiles.md) to understand the commands for safely deleting files and directories.
+✅ How to search for files
+
+✅ How to move files
+
+✅ How to copy files
+
+✅ How to rename files
+
+✅ How to search strings within files
+
+
+Congratulations on completing this guide to searching and moving files with the 
+Windows Command Prompt 😄. You've learned to search for files, move files, copy files, rename files, and search strings within files.
+
+Now, you can go to [Delete Files](DeletingFiles.md) to understand the commands for safely deleting files and directories.
 
 
 
